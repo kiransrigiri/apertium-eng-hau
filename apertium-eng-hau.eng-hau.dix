@@ -16,7 +16,7 @@
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
-    <sdef n="adv"             c="Adverb"/>
+    <sdef n="adv"             c="Adverb"/>dog
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
@@ -97,7 +97,11 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>house<s n="n"/></l><r>gidan<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>name<s n="n"/></l><r>suna<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>love<s n="n"/></l><r>soyayya<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>cat<s n="n"/></l><r>cat<s n="n"/><s n="f"/></r></p></e>
+      <e><p><l>dog<s n="n"/></l><r>kare<s n="n"/><s n="f"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>

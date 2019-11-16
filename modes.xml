@@ -13,7 +13,7 @@
       <program name="cg-proc -w">
         <file name="eng-hau.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-hau.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -58,7 +58,7 @@
       <program name="cg-proc -w">
         <file name="hau-eng.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="hau-eng.prob"/>
       </program>
 
